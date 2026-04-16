@@ -1,0 +1,46 @@
+{
+  "mainAssemblyName": "New TErrain generator.dll",
+  "resources": {
+    "hash": "sha256-+uOEBq3Es6Csb6oM3VpM10UT/0nAjNL9TFNpDp/vX8U=",
+    "jsModuleNative": {
+      "dotnet.native.js": "sha256-9e5Vqt0u8nYMGCHU4JfYqrYQExAw3bgi5UYzATgvoJE="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.js": "sha256-wW0L1H42TfMatybe1vKm/k57XP7qqXWX5r7AbCRx5JQ="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-jgmJHKTDZkqYH+tbs9FijgOzcdlK8XE/fg0FVI/ruU0="
+    },
+    "wasmSymbols": {
+      "dotnet.native.js.symbols": "sha256-j/wA4v8g6FZsP5ShKpMaftJ1DkNHLwnub7jGi293Vrk="
+    },
+    "icu": {
+      "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+    },
+    "coreAssembly": {
+      "System.Private.CoreLib.wasm": "sha256-qB0tNRuZbXWPLa6Z+2hk4Apz05108VA/muQyxK7OjUU=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-RAFvdQLJgwfWo2bUZZ4MvI9uqLM57/q4RGtSB2I1dZA="
+    },
+    "assembly": {
+      "New TErrain generator.wasm": "sha256-8jI76ij51LFHBWr/KGwKaXSb0n0DPVQLbjGwEre3ql8=",
+      "System.Collections.Immutable.wasm": "sha256-O2E56BOUWJ7KSXXhu2QPZdhMYruVjmJFm0UYojKPCn4=",
+      "System.Console.wasm": "sha256-nnD1zvZ+HfINZFygKim29N++/Vttwq15lUok0IHDpHk=",
+      "System.Diagnostics.DiagnosticSource.wasm": "sha256-eIEYnsNNeqwZcTIRS7wq7xTlNktDw4QZMh4TA+d1F6M=",
+      "System.IO.MemoryMappedFiles.wasm": "sha256-d4WItSsucXXvWTI+ePgCcX3Uo4CP3tcFwKbnkQ3cZ1E=",
+      "System.Reflection.Metadata.wasm": "sha256-//o94zH+KlgWtDfL8yIzOLzHGb87wSKTvP30m+3B1Io=",
+      "System.Resources.Writer.wasm": "sha256-xYBYTkIDsIHWxLquhr4AovMuuNYFVvxHQASsxUYi4yA=",
+      "System.Runtime.wasm": "sha256-xEjHQ1pJtGML+e3tTMuF/euXyujNJEQdqAWe72hx5sg=",
+      "System.Security.Claims.wasm": "sha256-pvE7eStrGSZHh3KezMXlciO8fnovoYm4wJkjZnG86vs=",
+      "System.Security.Principal.Windows.wasm": "sha256-OrGBpSc8jlBoesYxHxCOSJM0E7TCBT7GF4T0q9QrcGs="
+    },
+    "coreVfs": {
+      "runtimeconfig.bin": {
+        "supportFiles/0_runtimeconfig.bin": "sha256-63lTjEq7V2H7TCA4Eljv8JdkytihvlY7l95GmsQHC7k="
+      }
+    }
+  },
+  "debugLevel": 0,
+  "globalizationMode": "sharded"
+}
